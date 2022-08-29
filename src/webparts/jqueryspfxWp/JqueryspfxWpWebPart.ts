@@ -96,6 +96,8 @@ export default class JqueryspfxWpWebPart extends BaseClientSideWebPart<IJquerysp
         });
       });
 
+
+      //Checking code merge updates of two branch.
   }
 
   protected get dataVersion(): Version {
