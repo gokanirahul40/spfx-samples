@@ -89,6 +89,7 @@ export default class JqueryspfxWpWebPart extends BaseClientSideWebPart<IJquerysp
     </div>
       `;
 
+      // Adding comment to make changes.
       $(document).ready(()=>{
         $("#texthere").text("please follow my twitter");
         $("#carouselExampleIndicators").carousel({
