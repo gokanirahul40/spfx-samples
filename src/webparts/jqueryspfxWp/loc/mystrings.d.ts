@@ -7,4 +7,6 @@ declare interface IJqueryspfxWpWebPartStrings {
 declare module 'JqueryspfxWpWebPartStrings' {
   const strings: IJqueryspfxWpWebPartStrings;
   export = strings;
+
+  // testing
 }
